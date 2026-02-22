@@ -7,3 +7,7 @@ Example 1 - Get IP Address Only:
 
 Example 2 - Scan Port Number 80 (HTTP)
 ./ip_scanner.py example.com --port=80
+
+You can install all dependencies with:
+pip install -r requirements.txt
+
