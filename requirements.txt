@@ -1,0 +1,4 @@
+requests>=2.31.0,<3.0.0  # For network requests
+beautifulsoup4>=4.16.0,<5.0.0   # For HTML parsing (optional)
+argparse==1.4.0            # For argument handling
+socket==3.7              # Standard socket library
